@@ -1,0 +1,58 @@
+Atividade 1 – Soma de números personalizados
+
+Crie uma classe Numero com:
+
+atributo valor
+sobrecarga do operador +
+
+O resultado deve ser a soma dos valores
+
++===============================================
+Atividade 2 – Multiplicação de objetos
+
+Crie uma classe Caixa com:
+
+largura
+altura
+
+Sobrecargue o operador * para calcular a área
+
++===============================================
+Atividade 3 – Comparação de produtos
+
+Crie uma classe Produto com:
+
+nome
+preço
+
+Sobrecargue:
+
+> para comparar preços
+== para verificar se preços são iguais
+
++===============================================
+Atividade 4 – Carrinho de compras
+
+Crie:
+
+Classe Produto
+Classe Carrinho
+
+Regras:
+
++ adiciona produtos no carrinho
+carrinho guarda lista de produtos
+método para mostrar total
+
++===============================================
+Atividade 5 – Desafio (nível médio)
+
+Crie uma classe ContaBancaria:
+
+saldo
+
+Sobrecarga 
+
++ → depositar
+- → sacar
++===============================================
