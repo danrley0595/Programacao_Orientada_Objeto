@@ -1,0 +1,7 @@
+python -m venv venv
+
+ .\venv\scripts\activate
+
+pip install pysimplegui==4.60.5.1
+
+pip freeze > requirements.txt
